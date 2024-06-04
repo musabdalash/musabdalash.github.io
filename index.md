@@ -32,7 +32,10 @@ My background in dentistry fuels my commitment to improving healthcare quality a
 
 # List of Projects:
 **AI-generated medical cases aided me in practicing medical coding.**
- | Case 1 | [Crohn's Disease Coding](project1.md)       |
- | Case 2 | [Comprehensive Case Study](project2.md)     |
- | Case 3 | [Systemic Lupus Erythematosus](project3.md) |
- | Case 4 | [Meningitis](project4.md)                   |
+| **Case** | **Description**                               |
+|:--------:|--------------------------------------------------------|
+| 1    | *[Crohn's Disease Coding](project1.md)*           |
+| 2    | *[Comprehensive Case Study](project2.md)*         |
+| 3    | *[Systemic Lupus Erythematosus](project3.md)*     |
+| 4    |  *[Meningitis](project4.md)*                      |
+
